@@ -29,7 +29,7 @@ Instead of building isolated apps, I dedicated my final year to architecting a s
 ---
 
 ## 🛠️ Complete Technical Toolbox
-- **Languages:** Python, JavaScript, SQL, C++
+- **Languages:** Python, SQL, 
 - **Frameworks & Libs:** Django, React, Node.js, Pandas, NumPy
 - **Databases & Tools:** PostgreSQL, SQL Server, Git, GitHub
 
