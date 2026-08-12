@@ -30,7 +30,7 @@ Instead of building isolated apps, I dedicated my final year to architecting a s
 
 ## 🛠️ Complete Technical Toolbox
 - **Languages:** Python, SQL, 
-- **Frameworks & Libs:** Django, React, Node.js, Pandas, NumPy
+- **Frameworks & Libs:** Streamlit, React, Node.js, Pandas, NumPy
 - **Databases & Tools:** PostgreSQL, SQL Server, Git, GitHub
 
 📫 **Let's Connect:** [https://www.linkedin.com/in/rajat-kumar-161144385]
