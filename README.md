@@ -13,7 +13,7 @@ Instead of building isolated apps, I dedicated my final year to architecting a s
 
 ###  Pillar 1: Full-Stack Engineering (The Foundation)
 - **What it does:** A production-ready E-commerce platform that handles user authentication, product catalogs, dynamic carts, and checkout pipelines. It serves as the root source of data generation.
-- **Tech Stack:** Python, Django REST Framework, React.js, PostgreSQL, Node.js
+- **Tech Stack:** Python, Django REST Framework,PostgreSQL
 - **Impact:** Optimized PostgreSQL indexing and query architecture to reduce page load latency by 40% under peak simulated traffic.
 
 ###  Pillar 2: Data Science & Fraud Analytics (The Intelligence)
