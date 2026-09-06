@@ -1,36 +1,27 @@
-# Hi there, I'm Rajat Kumar
-
-An aspiring Graduate Student focused on Computer Science, Data Science, and Data Analytics Engineering. I specialize in building interconnected software systems, optimizing machine learning pipelines, and automating ETL workflows.
-
----
-
-##  Featured Project: End-to-End E-Commerce Data Ecosystem
-Instead of building isolated apps, I dedicated my final year to architecting a single, unified monolithic ecosystem that bridges the gap between **Software Architecture** and **Data Intelligence**. 
+# 💫 About Me:
+I am a data scientist/data analyst.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajat-kumar-161144385) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rajat Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkkumar8476@gmail.com) 
 
-### 🔗 [Explore the Full Repository Here](https://github.com/rkkumar945/NEU_Ecommerce_Project)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rkkumar945&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rkkumar945&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rkkumar945&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###  Pillar 1: Full-Stack Engineering (The Foundation)
-- **What it does:** A production-ready E-commerce platform that handles user authentication, product catalogs, dynamic carts, and checkout pipelines. It serves as the root source of data generation.
-- **Tech Stack:** Python, Django REST Framework,PostgreSQL
-- **Impact:** Optimized PostgreSQL indexing and query architecture to reduce page load latency by 40% under peak simulated traffic.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rkkumar945&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###  Pillar 2: Data Science & Fraud Analytics (The Intelligence)
-- **What it does:** Pulls raw transactional and user behavior logs from the platform to run advanced analytics. It segments users into target personas and catches fraudulent transactions in real-time.
-- **Tech Stack:** Python, Jupyter Notebooks, Scikit-Learn, XGBoost, K-Means Clustering, SMOTE
-- **Impact:** Handled severe class imbalance using SMOTE and trained an XGBoost model that achieved a 94% accuracy rate in detecting transactional anomalies.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Pillar 3: Data Engineering & BI (The Infrastructure)
-- **What it does:** Automates the entire data lifecycle. It features an automated ETL pipeline that extracts fresh database logs, cleanses them, and loads them into an optimized data model for stakeholder visualization.
-- **Tech Stack:** SQL, Power Query, Power BI, DAX
-- **Impact:** Formulated complex DAX metrics (CLV, MoM Growth) and designed a Star Schema model, reducing manual executive reporting time by 85%.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rkkumar945&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rkkumar945&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Complete Technical Toolbox
-- **Languages:** Python, SQL, 
-- **Frameworks & Libs:** Streamlit, Pandas, NumPy
-- **Databases & Tools:** PostgreSQL, SQL Server, Git, GitHub
-
-📫 **Let's Connect:** [https://www.linkedin.com/in/rajat-kumar-161144385]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
