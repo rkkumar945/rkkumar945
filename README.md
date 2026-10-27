@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data scientist/data analyst.
+I am a data analyst.
 
 
 ## 🌐 Socials:
